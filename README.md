@@ -18,14 +18,14 @@ In order for our results to be repeatable, this repository serves as a collectio
 
 ## Citation (BibTeX)
 ```
-@INPROCEEDINGS{11205394,
+@INPROCEEDINGS{MakanyGalambos2025a,
   author={Makány, András and Galambos, Péter},
   booktitle={2025 IEEE 23rd Jubilee International Symposium on Intelligent Systems and Informatics (SISY)}, 
   title={A Framework for Generating Synthetic Expert Demonstrations in Digital Twin-based Robot Learning}, 
   year={2025},
-  volume={},
-  number={},
-  pages={000051-000056},
+  month={sep},
+  pages={51--56},
+  address={Subotica, Serbia},
   doi={10.1109/SISY67000.2025.11205394}
 }
 ```
